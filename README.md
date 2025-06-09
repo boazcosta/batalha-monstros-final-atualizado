@@ -33,3 +33,6 @@ npm start
 - Componentização: components/MonsterCard.tsx
 - Lógica de batalha e utilitários: utils/battle.ts
 - Tipagem: types.ts
+  
+## Aplicação
+- https://batalha-monstros-final-atualizado.vercel.app/
